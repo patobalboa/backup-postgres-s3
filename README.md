@@ -1,4 +1,4 @@
-# PostgreSQL Backup Service
+# PostgreSQL Backup S3 Service
 
 ## 📌 Descripción
 Este script automatiza el respaldo de bases de datos PostgreSQL, subiéndolos a Amazon S3 y notificando el estado del backup vía correo electrónico, Slack y Telegram.
